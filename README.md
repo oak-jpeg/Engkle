@@ -25,7 +25,7 @@ Engkle เป็นแอปพลิเคชันที่ช่วยให�
 ### ✅ ตัวอย่างแบบฝึกหัด ป.3
 | หน้าตอบคำถาม | ตอบถูก | ตอบผิด | ขอสิทธิ์บันทึกเสียง |
 |---|---|---|---|
-| <img src="img/l3.jpg" width="200"> | <img src="img/l3_ture.jpg" width="200"> | <img src="img/l3_fail.jpg" width="200"> | <img src="img/l3_permis.jpg" width="200"> |
+| <img src="img/l3.jpg" width="200"> | <img src="img/l3 ture.jpg" width="200"> | <img src="img/l3 fail.jpg" width="200"> | <img src="img/l3 permis.jpg" width="200"> |
 
 ### 🏫 หน้ารวมบทเรียน (ป.6)
 <img src="img/l6_homepage.jpg" width="300">
@@ -33,7 +33,7 @@ Engkle เป็นแอปพลิเคชันที่ช่วยให�
 ### ✅ ตัวอย่างแบบฝึกหัด ป.6
 | ตอบถูก | ตอบผิด | ขอสิทธิ์บันทึกเสียง |
 |---|---|---|
-| <img src="img/l6_ture.jpg" width="200"> | <img src="img/l6_fail.jpg" width="200"> | <img src="img/l6_permis.jpg" width="200"> |
+| <img src="img/l6 ture.jpg" width="200"> | <img src="img/l6 fail.jpg" width="200"> | <img src="img/l6 permis.jpg" width="200"> |
 
 ### 📊 หน้าคะแนน
 <img src="img/score.jpg" width="300">

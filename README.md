@@ -28,9 +28,9 @@ Engkle เป็นแอปพลิเคชันที่ช่วยให�
 <img src="img/l6 homepage.jpg" width="300">
 
 ### ✅ ตัวอย่างแบบฝึกหัด ป.6
-| ตอบถูก | ตอบผิด | ขอสิทธิ์บันทึกเสียง |
-|---|---|---|
-| <img src="img/l6 ture.jpg" width="200"> | <img src="img/l6 fail.jpg" width="200"> | <img src="img/l6 permis.jpg" width="200"> |
+| หน้าตอบคำถาม | ตอบถูก | ตอบผิด | ขอสิทธิ์บันทึกเสียง |
+|---|---|---|---|
+| <img src="img/l6.jpg" width="200"> | <img src="img/l6 ture.jpg" width="200"> | <img src="img/l6 fail.jpg" width="200"> | <img src="img/l6 permis.jpg" width="200"> |
 
 ### 📊 หน้าคะแนน
 <img src="img/score.jpg" width="300">

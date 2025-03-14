@@ -11,7 +11,7 @@ Engkle เป็นแอปพลิเคชันที่ช่วยให�
 <img src="img/start.jpg" width="300">
 
 ### 🔑 หน้าเข้าสู่ระบบ และ 📝 หน้าสมัครสมาชิก
-<img src="img/login.jpg" width="300"> | <img src="img/register.jpg" width="300">
+<img src="img/login.jpg" width="300">  <img src="img/register.jpg" width="300">
 
 ### 🏡 หน้าแรกของแอปพลิเคชัน
 <img src="img/homepage.jpg" width="300">
@@ -36,7 +36,7 @@ Engkle เป็นแอปพลิเคชันที่ช่วยให�
 <img src="img/score.jpg" width="300">
 
 ### 👤 หน้าโปรไฟล์และแก้ไขโปรไฟล์
-<img src="img/profile.jpg" width="300"> | <img src="img/editname.jpg" width="300">
+<img src="img/profile.jpg" width="300">  <img src="img/editname.jpg" width="300">
 
 ---
 

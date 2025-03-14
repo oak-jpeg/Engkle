@@ -36,7 +36,7 @@ Engkle เป็นแอปพลิเคชันที่ช่วยให�
 <img src="img/score.jpg" width="300">
 
 ### 👤 หน้าโปรไฟล์และแก้ไขโปรไฟล์
-<img src="img/profile.jpg" width="300"> | <img src="img/edit profile.jpg" width="300">
+<img src="img/profile.jpg" width="300"> | <img src="img/editname.jpg" width="300">
 
 ---
 

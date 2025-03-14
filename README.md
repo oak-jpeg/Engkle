@@ -7,17 +7,17 @@ Engkle เป็นแอปพลิเคชันที่ช่วยให�
 
 ## 📸 รูปภาพของแอปพลิเคชัน
 
+### 🎨 หน้าเริ่มต้นของแอป
+<img src="img/start.jpg" width="300">
+
 ### 🔑 หน้าเข้าสู่ระบบ
 <img src="img/login.jpg" width="300">
 
-### 🏡 หน้าแรกของแอปพลิเคชัน
-<img src="img/homepage.jpg" width="300">
-
-### 👤 หน้าโปรไฟล์
-<img src="img/profile.jpg" width="300">
-
 ### 📝 หน้าสมัครสมาชิก
 <img src="img/register.jpg" width="300">
+
+### 🏡 หน้าแรกของแอปพลิเคชัน
+<img src="img/homepage.jpg" width="300">
 
 ### 🏫 หน้ารวมบทเรียน (ป.3)
 <img src="img/l3_homepage.jpg" width="300">
@@ -38,8 +38,8 @@ Engkle เป็นแอปพลิเคชันที่ช่วยให�
 ### 📊 หน้าคะแนน
 <img src="img/score.jpg" width="300">
 
-### 🎨 หน้าเริ่มต้นของแอป
-<img src="img/start.jpg" width="300">
+### 👤 หน้าโปรไฟล์และแก้ไขโปรไฟล์
+<img src="img/profile.jpg" width="300">
 
 ---
 

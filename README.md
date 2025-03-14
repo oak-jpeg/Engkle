@@ -14,7 +14,7 @@ Application lerning for kids, Using Tex to speech and Specch to text
 ![หน้าโปรไฟล์](img/editname.jpg)
 
 ## 📚 หน้ารวมบทเรียน (ป.3)
-![หน้าบทเรียน ป.3](img/l3_homepage.jpg)
+![หน้าบทเรียน ป.3](img/l3 homepage.jpg)
 
 ## ✅ ตัวอย่างแบบฝึกหัด ป.3
 | หน้าตอบคำถาม | ตัวอย่างคำศัพท์ | ตอบถูก | ตอบผิด | ขอสิทธิ์บันทึกเสียง |
